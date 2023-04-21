@@ -9,3 +9,7 @@ La détection d'objet peut être réalisée à l'aide de différentes techniques
 
 
 * **Basée sur les réseaux de neurones :** Les réseaux de neurones sont des modèles d'apprentissage en profondeur qui sont largement utilisés pour la détection d'objet. Les architectures de réseaux tels que R-CNN (Region-based Convolutional Neural Network), Fast R-CNN, Faster R-CNN, YOLO (You Only Look Once), SSD (Single Shot Detection) et RetinaNet sont utilisées pour améliorer la précision de la détection d'objet.
+
+
+* **Basée sur la segmentation :** Cette technique consiste à segmenter une image en plusieurs régions et à détecter les objets en trouvant les régions qui correspondent à l'objet recherché. Les algorithmes de segmentation tels que Watershed et Mean Shift sont utilisés pour détecter les régions d'intérêt.
+
