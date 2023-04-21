@@ -6,3 +6,6 @@ La détection d'objet est une tâche importante de la vision par ordinateur qui 
 La détection d'objet peut être réalisée à l'aide de différentes techniques, notamment :
 
 * **Basée sur les caractéristiques :** Cette technique utilise des descripteurs de caractéristiques tels que les Histogrammes de Gradients Orientés (HOG) et les SIFT (Scale-Invariant Feature Transform) pour détecter des objets dans une image. Elle peut être appliquée à l'aide de méthodes telles que SVM (Support Vector Machine) ou AdaBoost (Adaptive Boosting).
+
+
+* **Basée sur les réseaux de neurones :** Les réseaux de neurones sont des modèles d'apprentissage en profondeur qui sont largement utilisés pour la détection d'objet. Les architectures de réseaux tels que R-CNN (Region-based Convolutional Neural Network), Fast R-CNN, Faster R-CNN, YOLO (You Only Look Once), SSD (Single Shot Detection) et RetinaNet sont utilisées pour améliorer la précision de la détection d'objet.
