@@ -13,3 +13,7 @@ La détection d'objet peut être réalisée à l'aide de différentes techniques
 
 * **Basée sur la segmentation :** Cette technique consiste à segmenter une image en plusieurs régions et à détecter les objets en trouvant les régions qui correspondent à l'objet recherché. Les algorithmes de segmentation tels que Watershed et Mean Shift sont utilisés pour détecter les régions d'intérêt.
 
+En résumé, la détection d'objet est une tâche importante de la vision par ordinateur qui peut être réalisée à l'aide de différentes techniques. Les méthodes basées sur les réseaux de neurones ont permis d'obtenir des résultats de détection d'objet très précis et sont largement utilisées dans de nombreuses applications industrielles.
+
+
+
