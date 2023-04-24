@@ -65,3 +65,8 @@ YOLO a progressé chaque année, passant d'un résultat de 63,4 mAP sur l'ensemb
 Le 10 janvier 2023, la dernière version de YOLO, YOLO8, a été lancée. Ultralytics a développé YOLOv8. Ce modèle de pointe et à la fine pointe de la technologie s'appuie sur les succès des versions précédentes de YOLO et intègre de nouvelles avancées pour améliorer ses performances et sa polyvalence.
 
 ![image](https://user-images.githubusercontent.com/123757632/234002544-102d3d5f-3ffc-4c84-8f52-a972b360b4bb.png)
+
+L'un des points forts clés de YOLOv8 est sa polyvalence. En tant que cadre prenant en charge tous les modèles YOLO précédents, il est facile pour les utilisateurs de passer d'une version à l'autre et d'évaluer leurs performances, ce qui en fait un excellent choix pour ceux qui souhaitent utiliser la dernière technologie YOLO tout en étant en mesure d'utiliser leurs anciens modèles.
+
+![image](https://user-images.githubusercontent.com/123757632/234002912-c9da8cc1-93c6-470b-8309-b2e4f102758f.png)
+
