@@ -9,3 +9,5 @@ Le YOLO (You Only Look Once) original a été écrit par Joseph Redmon dans un f
 
 Darknet est un framework de recherche très flexible écrit en langages de bas niveau qui a produit une série des meilleurs détecteurs d'objets en temps réel en vision par ordinateur : YOLO, YOLOv2, YOLOv3, YOLOv4, YOLOv5, YOLOV6 et maintenant YOLOV7.
 
+![image](https://user-images.githubusercontent.com/123757632/233953603-167b62b9-d741-43eb-8918-deb5674aa126.png)
+
