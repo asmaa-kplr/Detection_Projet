@@ -28,4 +28,5 @@ Après sa première introduction en 2016, la famille de modèles YOLO continue d
 
 **BatchNorm est une méthode utilisée pour rendre l'entraînement des réseaux neuronaux artificiels plus rapide et plus stable en normalisant les entrées des couches par recentrage et rescaling.**
 
+À une résolution de données d'entrée de 416x416, YOLOv2 a atteint une précision moyenne de 76,8 mAP sur l'ensemble de données VOC 2007 et 67 FPS sur le GPU Titan X. Sur le même ensemble de données de résolution 544x544, YOLOv2 a atteint une précision moyenne de 78,6 mAP et 40 FPS.
 
