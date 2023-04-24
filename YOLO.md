@@ -70,3 +70,4 @@ L'un des points forts clés de YOLOv8 est sa polyvalence. En tant que cadre pren
 
 ![image](https://user-images.githubusercontent.com/123757632/234002912-c9da8cc1-93c6-470b-8309-b2e4f102758f.png)
 
+En conclusion, YOLOv8 est un outil robuste et adaptable pour la détection d'objets et la segmentation d'images qui offre le meilleur des deux mondes : la dernière technologie de pointe et la capacité d'utiliser et de comparer toutes les versions précédentes de YOLO.
