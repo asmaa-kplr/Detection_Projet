@@ -11,3 +11,8 @@ Roboflow est un outil qui facilite la tâche de la vision par ordinateur dans le
 
 ![image](https://user-images.githubusercontent.com/123757632/234112416-bace7afb-e916-43ef-a315-572ae010a73e.png)
 
+## 1 . Créer un nouveau projet
+Dans le workspace Roboflow, il faut cliquer sur le bouton "Create New Project", sélectionner "Object Detection (Bounding Box)" comme type de projet, spécifier "personne" pour la question "what are you detecting ?", et enfin donner le nom de "Detection de Personnes" au projet.
+
+
+
