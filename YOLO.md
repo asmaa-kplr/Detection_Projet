@@ -19,3 +19,5 @@ Le modèle YOLO de base prédit des images à 45 images par seconde (FPS) sur un
 
 Ainsi, YOLO a atteint une précision moyenne de 63,4 mAP (moyenne de précision), plus du double de celle des autres détecteurs en temps réel, ce qui le rend encore plus spécial. Tant YOLO que Fast YOLO surpassent de loin les variantes de détecteurs d'objets en temps réel DPM en termes de précision moyenne (presque deux fois plus) et de FPS.
 
+![image](https://user-images.githubusercontent.com/123757632/233956870-191ccd75-ce51-445a-abdb-30e1b7e4ba04.png)
+
