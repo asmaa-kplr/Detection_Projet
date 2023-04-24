@@ -7,5 +7,5 @@ Le modèle est devenu largement connu après que ses développeurs, Joseph Redmo
 
 Le YOLO (You Only Look Once) original a été écrit par Joseph Redmon dans un framework personnalisé appelé Darknet.
 
-
+Darknet est un framework de recherche très flexible écrit en langages de bas niveau qui a produit une série des meilleurs détecteurs d'objets en temps réel en vision par ordinateur : YOLO, YOLOv2, YOLOv3, YOLOv4, YOLOv5, YOLOV6 et maintenant YOLOV7.
 
