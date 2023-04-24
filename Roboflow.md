@@ -22,3 +22,8 @@ il reste qu'a cliquer sur le bouton "Create Private Project" pour finaliser le p
 
 ![image](https://user-images.githubusercontent.com/123757632/234117576-fdd2d79d-6bad-48e7-bcfe-b12e9e2f9045.png)
 
+ Dans l'input "Import Youtube Video" , il faut saisir le lien suivant et cliquer sur l'icône "Flèche" située à droite : https://www.youtube.com/watch?v=YzcawvDGe4Y&t=3s&ab_channel=GKorb 
+
+![image](https://user-images.githubusercontent.com/123757632/234118171-613f5aba-2da3-4831-8cb0-d46619ca9039.png)
+
+ 
