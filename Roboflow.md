@@ -18,5 +18,7 @@ Dans le workspace Roboflow, il faut cliquer sur le bouton "Create New Project", 
 
 il reste qu'a cliquer sur le bouton "Create Private Project" pour finaliser le projet .
 
+## 2 . Importation de donnée a partir d'une video
 
+![image](https://user-images.githubusercontent.com/123757632/234117576-fdd2d79d-6bad-48e7-bcfe-b12e9e2f9045.png)
 
