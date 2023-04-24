@@ -50,8 +50,18 @@ La version 5 est implémentée nativement en PyTorch, ce qui supprime les limita
 
 ## YOLOv6
 
+Publié dès 2022, YOLOv6 est une itération du tronc et du cou YOLO, repensés en gardant à l'esprit le matériel - introduisant ce qu'ils appellent le Backbone EfficientRep et le cou Rep-PAN. Dans les modèles YOLO jusqu'à YOLOv5 inclus, les têtes de classification et de régression de boîtes utilisent les mêmes caractéristiques. Dans YOLOv6, les têtes sont séparées, c'est-à-dire que le réseau dispose de couches supplémentaires séparant ces caractéristiques de la tête finale, ce qui a empiriquement montré d'augmenter les performances.
+
+Le modèle YOLOv6 simule l'ensemble de données COCO de manière plus précise que YOLOv5 à un débit de sortie comparable. Cela a été testé sur un GPU Tesla V100.
+
 ## YOLOv7
+
+YOLOv7, disponible en juillet 2022, est le dernier détecteur d'objets de pointe de la famille YOLO. Cette version est actuellement considérée comme le détecteur d'objets en temps réel le plus rapide et le plus précis. Ce modèle contient toutes les techniques d'entraînement de réseaux de neurones profonds les plus avancées.
+
+YOLO a progressé chaque année, passant d'un résultat de 63,4 mAP sur l'ensemble de données Pascal VOC (20 classes) en 2016 à YOLOR en 2021 avec un résultat de 73,3 mAP sur l'ensemble de données MS COCO beaucoup plus complexe (80 classes). C'est là toute la beauté de cette invention. Grâce à un travail acharné et une résilience constants, le système de détection d'objets YOLO a parcouru un long et fructueux chemin !
 
 ## YOLOv8
 
+Le 10 janvier 2023, la dernière version de YOLO, YOLO8, a été lancée. Ultralytics a développé YOLOv8. Ce modèle de pointe et à la fine pointe de la technologie s'appuie sur les succès des versions précédentes de YOLO et intègre de nouvelles avancées pour améliorer ses performances et sa polyvalence.
 
+![image](https://user-images.githubusercontent.com/123757632/234002544-102d3d5f-3ffc-4c84-8f52-a972b360b4bb.png)
