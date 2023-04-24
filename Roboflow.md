@@ -27,3 +27,6 @@ il reste qu'a cliquer sur le bouton "Create Private Project" pour finaliser le p
 ![image](https://user-images.githubusercontent.com/123757632/234118171-613f5aba-2da3-4831-8cb0-d46619ca9039.png)
 
  
+### 3 . Découpage de la vidéo en images 
+
+Maintenant, après avoir téléchargé la vidéo, il faut choisir le nombre d'images que Roboflow va découper à partir de la vidéo précédente. Dans le cadre de cet atelier, on choisira "10 images". Toutefois, pour obtenir un ensemble de données plus robuste, il est recommandé de choisir un nombre plus élevé. Il faut cliquer sur le bouton "Choose Frame Rate".
