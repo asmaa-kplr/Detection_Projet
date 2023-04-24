@@ -13,7 +13,7 @@ Darknet est un framework de recherche très flexible écrit en langages de bas n
 
 YOLO a été le premier réseau de détection d'objets à combiner la tâche de dessin de boîtes englobantes et d'identification de libellé de classe en un seul réseau différentiable de bout en bout.
 
-##YOLOv1
+## YOLOv1
 
 Le modèle YOLO de base prédit des images à 45 images par seconde (FPS) sur un GPU Titan X. Les auteurs ont également développé une version beaucoup plus légère de YOLO appelée Fast YOLO, qui a moins de couches et qui traite les images à 155 images par seconde.
 
