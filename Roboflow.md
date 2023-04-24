@@ -89,6 +89,30 @@ Les paramètres de "Prétraitement" seront laissés par défaut avant de cliquer
 
 ![image](https://user-images.githubusercontent.com/123757632/234131387-45401fec-1d2a-4bfb-be4f-e9b876df3ea8.png)
 
+Il faut ajouter l'augmentation par "Flip" en choisissant l'option horizontale avant de cliquer sur "Apply".
 
+![image](https://user-images.githubusercontent.com/123757632/234132579-66b9276e-0ac4-4aa7-af97-7dc60f229bbc.png)
 
+Ensuite, on peut augmenter "Brightness" de 49% pour renforcer la résilience du modèle face aux variations d'éclairage et de configuration de la caméra, puis il suffit de cliquer sur "Apply".
 
+![image](https://user-images.githubusercontent.com/123757632/234132742-eedaef85-fc25-421b-8854-123ef5700fb0.png)
+
+Il suffit de cliquer sur "Continuer" pour confirmer les choix d'augmentation.
+
+* **Generate :** La fonctionnalité "Generate" permet de générer de nouvelles données à partir de jeux de données existants en utilisant des techniques d'augmentation de données avancées. 
+
+ Il est recommandé de sélectionner la Version x3 '24 images' avant de cliquer sur le bouton "Générer".
+
+![image](https://user-images.githubusercontent.com/123757632/234133234-6140d64d-812e-4002-a52d-566b9ff51e81.png)
+
+## 7 . Exporter le dataset
+
+Pour utiliser un dataset et l'entraîner avec Yolov, il suffit d'exporter le dataset en cliquant sur le bouton "Export Dataset".
+
+![image](https://user-images.githubusercontent.com/123757632/234133800-aa70de84-74e1-44e8-8791-01e4547bf064.png)
+
+Roboflow permet le téléchargement de données dans n'importe quel format standard requis pour la vision par ordinateur, y compris la génération de TFRecord.
+
+![image](https://user-images.githubusercontent.com/123757632/234134042-55a3ff96-af62-440d-96d7-e749e12894f1.png)
+
+Une fois que le format d'exportation est sélectionné, il est possible de télécharger les données sous forme de fichier .zip ou d'un lien curl pour le téléchargement en ligne de commande.
