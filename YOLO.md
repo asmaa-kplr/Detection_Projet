@@ -33,3 +33,19 @@ Après sa première introduction en 2016, la famille de modèles YOLO continue d
 En 2018, les développeurs Redmon et Farhadi ont publié YOLOv3, qui s'appuie sur les modèles précédents en ajoutant une estimation de l'objectivité aux prédictions de boîte englobante, en ajoutant des connexions aux couches du réseau de référence, et en effectuant des prédictions à trois niveaux de détail distincts pour améliorer les performances sur les petits objets.
 
 Il est entraîné sur différentes résolutions d'image telles que 320×320, 416×416. À une résolution de 320×320, YOLOv3 atteint une précision moyenne de 28,2 mAP à 45 FPS sur un GPU Titan X et a la même précision que le détecteur à prise de vue unique (SSD321), mais 3 fois plus rapide.
+
+## YOLOv4
+
+En avril 2020, Alexey Bochkovsky a publié YOLOv4. Il s'agissait de sa première contribution à la famille "YOLO" qui n'a pas été écrite par Joseph Redmon. YOLOv4 est le produit de nombreuses expérimentations et recherches, combinant diverses petites nouvelles techniques pour améliorer la précision et la vitesse du réseau de neurones convolutifs.
+
+Dans cet article, des expériences approfondies ont été menées sur différentes architectures de GPU et ont montré que YOLOv4 surpassait toutes les autres architectures de réseau de détection d'objets en termes de vitesse et de précision.
+
+## YOLOv5
+
+## YOLOv6
+
+## YOLOv7
+
+## YOLOv8
+
+
