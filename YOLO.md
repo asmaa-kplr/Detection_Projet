@@ -42,6 +42,12 @@ Dans cet article, des expériences approfondies ont été menées sur différent
 
 ## YOLOv5
 
+YOLOv5 a été publié en juin 2020, seulement deux mois après YOLOv4, par Glenn Jocher. Il s'agit du premier modèle de la famille "YOLO" qui n'a pas été publié avec un document d'accompagnement et est donc en "développement continu" dans le référentiel. Cela a suscité une certaine controverse au début, mais cette idée a rapidement été balayée car ses capacités ont été sous-estimées par le bruit.
+
+YOLOv5 propose une famille d'architectures de détection d'objets pré-entraînées sur l'ensemble de données MS COCO. Il a été suivi par la publication d'EfficientDet et YOLOv4. Aujourd'hui, le modèle est l'un des modèles officiels de pointe avec un soutien considérable et une utilisation plus facile en production.
+
+La version 5 est implémentée nativement en PyTorch, ce qui supprime les limitations du framework Darknet.
+
 ## YOLOv6
 
 ## YOLOv7
