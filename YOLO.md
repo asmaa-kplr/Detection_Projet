@@ -26,4 +26,6 @@ Ainsi, YOLO a atteint une précision moyenne de 63,4 mAP (moyenne de précision)
 
 Après sa première introduction en 2016, la famille de modèles YOLO continue d'évoluer chaque année. Par exemple, l'année suivante, le YOLOv2 a été publié. Un certain nombre d'améliorations itératives ont été apportées à l'architecture de YOLO, notamment BatchNorm, une résolution plus élevée et des boîtes d'ancrage.
 
+**BatchNorm est une méthode utilisée pour rendre l'entraînement des réseaux neuronaux artificiels plus rapide et plus stable en normalisant les entrées des couches par recentrage et rescaling.**
+
 
