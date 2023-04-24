@@ -5,3 +5,7 @@ Le modèle est devenu largement connu après que ses développeurs, Joseph Redmo
 
 **Mais d'où vient YOLO, quelle est sa nouveauté et pourquoi y a-t-il tant de versions ?**
 
+Le YOLO (You Only Look Once) original a été écrit par Joseph Redmon dans un framework personnalisé appelé Darknet.
+
+
+
