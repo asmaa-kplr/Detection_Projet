@@ -30,3 +30,8 @@ il reste qu'a cliquer sur le bouton "Create Private Project" pour finaliser le p
 ### 3 . Découpage de la vidéo en images 
 
 Maintenant, après avoir téléchargé la vidéo, il faut choisir le nombre d'images que Roboflow va découper à partir de la vidéo précédente. Dans le cadre de cet atelier, on choisira "10 images". Toutefois, pour obtenir un ensemble de données plus robuste, il est recommandé de choisir un nombre plus élevé. Il faut cliquer sur le bouton "Choose Frame Rate".
+
+![image](https://user-images.githubusercontent.com/123757632/234118442-47f0e116-da28-4e5b-925e-7050133020eb.png)
+
+Il faut enregistrer l'ensemble de données en cliquant sur le bouton "Save and Continue" situé tout à droite, puis sur le bouton "Assign Images". 
+Ensuite, il faut cliquer sur la première image pour commencer l'annotation.
