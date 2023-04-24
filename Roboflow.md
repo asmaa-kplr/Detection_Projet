@@ -41,3 +41,54 @@ Ensuite, il faut cliquer sur la première image pour commencer l'annotation.
 Roboflow prend en charge différents types d'annotations, notamment :
 
 * Boîte englobante (Bounding box) : qui encadre l'objet avec un rectangle
+
+![image](https://user-images.githubusercontent.com/123757632/234118928-68a17e05-d447-4e6a-b08b-662220fa1174.png)
+
+* "Smart polygon" permet de dessiner rapidement des polygones (ou des formes avec plusieurs côtés) autour d'objets complexes, tels que des voitures ou des bateaux, en suivant automatiquement les contours de ces objets.
+
+![image](https://user-images.githubusercontent.com/123757632/234130279-d2cfada1-0715-48b3-8c3a-fb2eaa004251.png)
+
+* "Label Assists" est un outil d'assistance à l'étiquetage qui suggère des étiquettes possibles en temps réel en fonction du contexte de l'image, ce qui peut aider les utilisateurs à étiqueter rapidement et précisément les objets dans leur ensemble de données.
+
+Pour choisir le type d'annotation "Label Assists" , cliquez sur le 5ème bouton tout à droite .
+
+![image](https://user-images.githubusercontent.com/123757632/234130382-49faba94-0d50-4751-b640-91d33779f25f.png)
+
+Utiliser les prédictions d'un modèle public ou d'un modèle entraîné par Roboflow Train peut servir de point de départ pour annoter de nouvelles images dans ce dataset. Il suffit de cliquer sur "Continue".
+
+![image](https://user-images.githubusercontent.com/123757632/234130504-795f146e-eac0-472d-9d5a-51b4e70c4dda.png)
+
+Après quelques secondes, la classe "person" sera choisie pour une annotation automatique. Ensuite, "Deselect all" et "person" seront cliqués, suivis de "Select 1 Classes" et "Let's Annotate'.
+
+![image](https://user-images.githubusercontent.com/123757632/234130751-0295b858-3cad-481b-81ff-65d3c7c400f4.png)
+
+Il est à noter que l'annotation a été réalisée automatiquement sur toutes les images.
+
+## 5 . Ajout des images dans le dataset
+
+Maintenant, il ne reste plus qu'à ajouter les images annotées à votre dataset. Pour ce faire, il faut cliquer sur la flèche située à gauche pour revenir au projet, puis cliquer sur "Add 10 images to Dataset", suivi de "Add images".
+
+![image](https://user-images.githubusercontent.com/123757632/234130941-9a69aa98-3dc8-415d-bd66-24b6b89aff29.png)
+
+
+## 6 . Création d'une nouvelle version du dataset
+
+Enfin, il suffit de cliquer sur "Generate New Version" pour créer une nouvelle version du dataset.
+
+![image](https://user-images.githubusercontent.com/123757632/234131157-b6b2cdd3-f0fa-44aa-bcb8-3bd2f37a217f.png)
+
+La fonctionnalité "generate new version" permet également de cloner des ensembles de données existants, en créant une nouvelle version de l'ensemble de données original avec toutes les annotations et les métadonnées associées.
+
+* **Preprocessing (Prétraitement) :** Le prétraitement est une étape de nettoyage et de préparation des données d'origine avant de les utiliser pour entraîner un modèle de vision par ordinateur.
+
+![image](https://user-images.githubusercontent.com/123757632/234131213-63a2edf5-a0bb-4db7-8c15-7dc49d67ad34.png)
+
+Les paramètres de "Prétraitement" seront laissés par défaut avant de cliquer sur "Continuer".
+
+* **Augmentation :** L'augmentation de données consiste à créer de nouvelles données d'entraînement en appliquant des transformations aléatoires à des images existantes.
+
+![image](https://user-images.githubusercontent.com/123757632/234131387-45401fec-1d2a-4bfb-be4f-e9b876df3ea8.png)
+
+
+
+
