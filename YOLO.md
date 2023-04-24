@@ -21,3 +21,7 @@ Ainsi, YOLO a atteint une précision moyenne de 63,4 mAP (moyenne de précision)
 
 ![image](https://user-images.githubusercontent.com/123757632/233956870-191ccd75-ce51-445a-abdb-30e1b7e4ba04.png)
 
+
+## YOLOv2
+
+
