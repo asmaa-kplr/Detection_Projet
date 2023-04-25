@@ -2,11 +2,11 @@
 
 Roboflow est un outil qui facilite la tâche de la vision par ordinateur dans le domaine de l'apprentissage en profondeur. Il permet aux développeurs de créer leurs applications de vision par ordinateur, quel que soit leur niveau de compétence ou d'expérience. Il prend en charge les modèles de détection et de classification d'objets. Cet outil peut faire ce qui suit :
 
-* Annotation de jeux de données
-* Prétraitement des jeux de données
-* Fusion de projets/jeux de données
-* Vérification de la santé du jeu de données
-* Exportation des jeux de données
+* Annotation de dataset
+* Prétraitement de dataset
+* Fusion de projets/dataset
+* Vérification de la santé du dataset
+* Exportation de dataset
 * Entraînement du modèle
 
 Voici quelques raisons pour lesquelles vous devriez envisager d'utiliser Roboflow :
