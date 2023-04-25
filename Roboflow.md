@@ -9,6 +9,18 @@ Roboflow est un outil qui facilite la tâche de la vision par ordinateur dans le
 * Exportation des jeux de données
 * Entraînement du modèle
 
+Voici quelques raisons pour lesquelles vous devriez envisager d'utiliser Roboflow :
+
+* **Facilité d'utilisation :** Roboflow est conçu pour rendre la vision par ordinateur accessible à tout le monde, indépendamment de leur expertise technique. La plateforme est facile à utiliser, avec une interface utilisateur simple qui vous permet de créer et de former rapidement vos modèles.
+
+* **Prise en charge de plusieurs frameworks :** Roboflow prend en charge plusieurs frameworks populaires de vision par ordinateur, notamment TensorFlow, PyTorch et YOLO. Cela signifie que vous pouvez utiliser le framework de votre choix pour former vos modèles.
+
+* **Augmentation de données :** Roboflow offre une large gamme de techniques d'augmentation de données qui peuvent aider à améliorer les performances de vos modèles. Ces techniques comprennent le retournement, la rotation, le recadrage, et plus encore.
+
+* **Infrastructure de formation robuste :** Roboflow fournit une infrastructure de formation robuste qui vous permet de former vos modèles rapidement et efficacement. Cela comprend l'accès à des GPU et des TPU puissants, ainsi qu'un réglage automatisé des hyperparamètres.
+
+* **Collaboration :** Roboflow facilite la collaboration avec votre équipe sur les projets de vision par ordinateur. Vous pouvez partager vos ensembles de données et vos modèles avec d'autres personnes, et collaborer sur la formation et l'évaluation.
+
 ![image](https://user-images.githubusercontent.com/123757632/234112416-bace7afb-e916-43ef-a315-572ae010a73e.png)
 
 ## 1 . Créer un nouveau projet
