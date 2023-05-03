@@ -20,14 +20,12 @@ Maintenant, explorons les blocs de construction principaux pour une architecture
 
 Un ordinateur voit une image comme une matrice de nombres avec une forme (lignescolonnesnombre de canaux). Toute image du monde réel serait d'au moins 2002003 pixels.
 
-La question est donc : pouvons-nous simplement aplatir l'image en une longue matrice 1D ?
-
-Non... Pas vraiment !
-
-Voici pourquoi —
+La question est donc : pouvons-nous simplement aplatir l'image en une longue matrice 1D ? "Non"
 
 Les réseaux neuronaux qui acceptent cette longue chaîne de nombres doivent contenir un grand nombre de neurones. Le nombre de poids requis à la première couche cachée sera de 20 000.
 
 Le traitement d'une quantité aussi importante de paramètres nécessite de nombreux neurones et peut conduire à un surapprentissage.
 
 Contrairement aux réseaux de neurones à alimentation directe, les réseaux de neurones convolutionnels examinent une partie de l'image à la fois et avancent de cette manière pour obtenir des informations complètes. Il implique très peu de neurones avec moins de paramètres pour balayer une image entière et apprendre les caractéristiques essentielles.
+
+![image](https://user-images.githubusercontent.com/123757632/235911576-e328ec00-213c-4067-89f2-6c07d5cd7283.png)
