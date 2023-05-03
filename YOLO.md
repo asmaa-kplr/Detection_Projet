@@ -29,3 +29,5 @@ Le traitement d'une quantité aussi importante de paramètres nécessite de nomb
 Contrairement aux réseaux de neurones à alimentation directe, les réseaux de neurones convolutionnels examinent une partie de l'image à la fois et avancent de cette manière pour obtenir des informations complètes. Il implique très peu de neurones avec moins de paramètres pour balayer une image entière et apprendre les caractéristiques essentielles.
 
 ![image](https://user-images.githubusercontent.com/123757632/235911576-e328ec00-213c-4067-89f2-6c07d5cd7283.png)
+
+![image](https://user-images.githubusercontent.com/123757632/235911671-71e60e97-34ff-4ec0-82c8-7c2445968e5b.png)
